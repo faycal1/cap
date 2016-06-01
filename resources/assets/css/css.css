@@ -1,0 +1,3 @@
+#formCv input.error, #formCv textarea.error , #formCv select.error {
+    border: 1px solid red !important;
+}
